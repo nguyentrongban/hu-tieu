@@ -1,6 +1,6 @@
 {
   "name": "Bình Minh Nắng Ấm - Góc Phố Pixel Buổi Sáng",
-  "description": "Không gian thư giãn buổi sáng nắng ấm với visual pixel art rực rỡ, âm thanh thiên nhiên, tiệm cà phê sáng và xưởng vẽ pixel art phong cách Việt Nam.",
+  "description": "Game web 2D Bán Hủ Tiếu Gõ Trên Sông Miền Tây hoàn chỉnh trong 1 màn hình duy nhất không cuộn trang.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
