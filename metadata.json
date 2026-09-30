@@ -1,6 +1,0 @@
-{
-  "name": "Bình Minh Nắng Ấm - Góc Phố Pixel Buổi Sáng",
-  "description": "Game web 2D Bán Hủ Tiếu Gõ Trên Sông Miền Tây hoàn chỉnh trong 1 màn hình duy nhất không cuộn trang.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
